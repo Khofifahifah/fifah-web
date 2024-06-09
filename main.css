@@ -1,0 +1,108 @@
+@import url('https://fonts.googleapis.com/css2?family=Plus+Jakarta+Sans:ital,wght@0,200..800;1,200..800&display=swap');
+
+* {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+}
+
+.text-gradient {
+  background: -webkit-linear-gradient(315deg, #f39e1e 0%, #dbc282 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+
+.bg-gradient-primary-to-secondary {
+  /* background: #1e30f3; */
+  background: linear-gradient(135deg, #f39e1e 0%, #dbc282 100%);
+}
+
+.feature {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  height: 3rem;
+  width: 3rem;
+  font-size: 1.5rem;
+}
+
+.btn-light {
+  background-color: black !important;
+  color: white !important;
+}
+
+.btn-light:hover {
+  background-color: #f39e1e !important;
+  color: black !important;
+}
+
+.sun {
+  fill: black;
+}
+.moon {
+  fill: transparent;
+}
+
+[data-bs-theme='light'] {
+  --bs-body-bg: #f1f1f1 !important;
+  --bs-secondary: #e21e80;
+  --bs-secondary-rgb: 226, 30, 128;
+
+  .profile .dots-3 svg {
+    fill: black !important;
+  }
+
+  .profile .dots-1 svg {
+    fill: black !important;
+  }
+}
+
+[data-bs-theme='dark'] {
+  /*Background*/
+  --bs-body-bg: #000 !important;
+  --bs-secondary: #f273b2 !important;
+  --bs-secondary-rgb: 242, 115, 178 !important;
+
+  .text-gradient {
+    background: -webkit-linear-gradient(315deg, #f39e1e 0%, #5e4914 100%);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+
+  .bg-gradient-primary-to-secondary {
+    background: #5078ff;
+    background: linear-gradient(135deg, #f39e1e 0%, #5e4914 100%);
+  }
+
+  .text-primary {
+    color: #6ea8fe !important;
+  }
+
+  .btn-primary {
+    background-color: #6ea8fe !important;
+    color: #000 !important;
+  }
+
+  .btn-outline-dark {
+    color: #fff;
+    border-color: #fff !important;
+  }
+
+  .btn-light {
+    background-color: white !important;
+    color: black !important;
+  }
+
+  .btn-light:hover {
+    background-color: #f39e1e !important;
+    color: black !important;
+  }
+
+  .sun {
+    fill: transparent !important;
+  }
+
+  .moon {
+    fill: white !important;
+  }
+}
