@@ -17,14 +17,21 @@
                 supporting learning and research activities with advanced search
                 features and digital catalogues.
               </p>
-              <a href="" class="text-gradient text-decoration-none" target="_blank"></a>
+              <a
+                href=""
+                class="text-gradient text-decoration-none"
+                target="_blank"
+              ></a>
             </div>
-            <div class="col-md-6" style="
+            <div
+              class="col-md-6"
+              style="
                 background-image: url('/images/project/Library amikom.png');
                 background-size: contain;
                 background-repeat: no-repeat;
                 background-position: center center;
-              "></div>
+              "
+            ></div>
           </div>
         </div>
       </div>
@@ -43,14 +50,21 @@
                 solution compared to less flexible traditional detection
                 systems.
               </p>
-              <a href="" class="text-gradient text-decoration-none" target="_blank"></a>
+              <a
+                href=""
+                class="text-gradient text-decoration-none"
+                target="_blank"
+              ></a>
             </div>
-            <div class="col-md-6" style="
+            <div
+              class="col-md-6"
+              style="
                 background-image: url('/images/project/AI.jpg');
                 background-size: contain;
                 background-repeat: no-repeat;
                 background-position: center center;
-              "></div>
+              "
+            ></div>
           </div>
         </div>
       </div>
@@ -60,20 +74,27 @@
         <div class="card-body p-0">
           <div class="row">
             <div class="col-md-6 p-5">
-              <h2 class="fw-bolder">Motorbike Rental</h2>
+              <h2 class="fw-bolder">motorbike rental</h2>
               <p>
                 Users can choose a motorbike, order and arrange payment online.
                 This site offers a wide selection of motorbikes with a fast and
                 easy rental process, supporting campus mobility.
               </p>
-              <a href="" class="text-gradient text-decoration-none" target="_blank"></a>
+              <a
+                href=""
+                class="text-gradient text-decoration-none"
+                target="_blank"
+              ></a>
             </div>
-            <div class="col-md-6" style="
+            <div
+              class="col-md-6"
+              style="
                 background-image: url('/images/project/Rental.png');
                 background-size: contain;
                 background-repeat: no-repeat;
                 background-position: center center;
-              "></div>
+              "
+            ></div>
           </div>
         </div>
       </div>
@@ -83,21 +104,28 @@
         <div class="card-body p-0">
           <div class="row">
             <div class="col-md-6 p-5">
-              <h2 class="fw-bolder">Bix.Show</h2>
+              <h2 class="fw-bolder">motorbike rental</h2>
               <p>
                 The application we designed is called "Bix.Show". This
                 application is an application used to order cinema tickets
                 online. The first display contains brief information about the
                 overview of this application.
               </p>
-              <a href="" class="text-gradient text-decoration-none" target="_blank"></a>
+              <a
+                href=""
+                class="text-gradient text-decoration-none"
+                target="_blank"
+              ></a>
             </div>
-            <div class="col-md-6" style="
+            <div
+              class="col-md-6"
+              style="
                 background-image: url('/images/project/tiket.png');
                 background-size: contain;
                 background-repeat: no-repeat;
                 background-position: center center;
-              "></div>
+              "
+            ></div>
           </div>
         </div>
       </div>

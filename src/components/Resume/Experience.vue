@@ -17,7 +17,7 @@ export default {
           jobs: 'UI/UX',
           company: 'FIND IT UGM',
           location: 'Yogyakarta',
-          description: ['as a participant of a competition held by Gadjah Mada University in the UI/UX category. In this category, I made a web UI/UX design that was very interesting and in my opinion easy to use.'],
+          description: [''],
         },
         {
           year: '17 mei 2024',
@@ -51,8 +51,11 @@ export default {
       <!--      </a>-->
     </div>
 
-    <div v-for="experience of experiences" :key="'experience-index-' + experience.company"
-      class="card shadow-sm border-0 rounded-4 mb-5">
+    <div
+      v-for="experience of experiences"
+      :key="'experience-index-' + experience.company"
+      class="card shadow-sm border-0 rounded-4 mb-5"
+    >
       <div class="card-body px-3 px-md-5 py-5">
         <div class="row align-items-center gx-5">
           <div class="col text-center text-lg-start mb-4 mb-lg-0">
